@@ -1,4 +1,4 @@
-This project was bootstrapped with React, TypeScript
+This project was bootstrapped with React, TypeScript, Styled-Components
 
 ## Installing Dependencies
 
