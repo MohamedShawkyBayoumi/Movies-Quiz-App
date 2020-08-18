@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Movies-Quiz-App/static/js/main.e5978153.chunk.js",
+    "main.js.map": "/Movies-Quiz-App/static/js/main.e5978153.chunk.js.map",
+    "runtime-main.js": "/Movies-Quiz-App/static/js/runtime-main.c11c4ddb.js",
+    "runtime-main.js.map": "/Movies-Quiz-App/static/js/runtime-main.c11c4ddb.js.map",
+    "static/js/2.1632e77e.chunk.js": "/Movies-Quiz-App/static/js/2.1632e77e.chunk.js",
+    "static/js/2.1632e77e.chunk.js.map": "/Movies-Quiz-App/static/js/2.1632e77e.chunk.js.map",
+    "index.html": "/Movies-Quiz-App/index.html",
+    "precache-manifest.bff9e0074a9f230ad25eb73d5609936c.js": "/Movies-Quiz-App/precache-manifest.bff9e0074a9f230ad25eb73d5609936c.js",
+    "service-worker.js": "/Movies-Quiz-App/service-worker.js",
+    "static/js/2.1632e77e.chunk.js.LICENSE.txt": "/Movies-Quiz-App/static/js/2.1632e77e.chunk.js.LICENSE.txt",
+    "static/media/BG.jpg": "/Movies-Quiz-App/static/media/BG.ff9cde7a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c11c4ddb.js",
+    "static/js/2.1632e77e.chunk.js",
+    "static/js/main.e5978153.chunk.js"
+  ]
+}
